@@ -1,4 +1,4 @@
-
+require 'raw-tribute'
 
 Song.new(:tribute) do
   greatest = true
